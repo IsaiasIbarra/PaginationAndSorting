@@ -1,0 +1,3 @@
+# PaginationAndSorting
+This project is a library of pagination classes with filters and sorting, it is located in the nuget package, there will be documentation of the implementation soon....
+

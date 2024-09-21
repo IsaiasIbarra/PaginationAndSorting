@@ -10,3 +10,4 @@ C:\Users\ISIIO\Desktop\BackEnd .Net C#\Arquitecturas\Libreria Nuget\Pagination\P
 C:\Users\ISIIO\Desktop\BackEnd .Net C#\Arquitecturas\Libreria Nuget\Pagination\PaginationAndSorting\obj\Debug\net8.0\refint\PaginationAndSorting.dll
 C:\Users\ISIIO\Desktop\BackEnd .Net C#\Arquitecturas\Libreria Nuget\Pagination\PaginationAndSorting\obj\Debug\net8.0\PaginationAndSorting.pdb
 C:\Users\ISIIO\Desktop\BackEnd .Net C#\Arquitecturas\Libreria Nuget\Pagination\PaginationAndSorting\obj\Debug\net8.0\ref\PaginationAndSorting.dll
+C:\Users\ISIIO\Desktop\BackEnd .Net C#\Arquitecturas\Libreria Nuget\Pagination\PaginationAndSorting\obj\Debug\net8.0\PaginationAndSorting.sourcelink.json

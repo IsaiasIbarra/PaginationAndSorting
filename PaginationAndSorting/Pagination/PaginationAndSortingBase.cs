@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using PaginationAndSorting.enums;
+using PaginationAndSorting.Pagination.Constant;
 using System.Linq.Expressions;
 
-namespace PaginationAndSorting
+namespace PaginationAndSorting.Pagination
 {
     /// <summary>
     /// Provides extension methods for pagination and sorting on IQueryable collections.

@@ -1,4 +1,4 @@
-﻿namespace PaginationAndSorting.Paginations
+﻿namespace PaginationAndSorting.Pagination.Paginations
 {
     // Implements the IPaginator interface for pagination of a generic type T
     public class Paginator<T> : IPaginator<T>

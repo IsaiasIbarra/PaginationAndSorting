@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaginationAndSorting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.1")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1.3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1.3+b7eda27f8de1e4655eeb40535ae523146b9666e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaginationAndSorting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaginationAndSorting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.1")]

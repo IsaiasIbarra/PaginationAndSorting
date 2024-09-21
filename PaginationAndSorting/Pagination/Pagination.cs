@@ -1,4 +1,4 @@
-﻿namespace PaginationAndSorting
+﻿namespace PaginationAndSorting.Pagination
 {
     /// <summary>
     /// Represents a class that handles pagination logic.

@@ -1,4 +1,7 @@
-﻿namespace PaginationAndSorting
+﻿
+
+
+namespace PaginationAndSorting.Pagination
 {
     /// <summary>
     /// Represents a paginated response that includes a collection of data items of type <typeparamref name="T"/>.

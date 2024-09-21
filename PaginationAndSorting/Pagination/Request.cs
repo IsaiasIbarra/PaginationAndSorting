@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace PaginationAndSorting
+namespace PaginationAndSorting.Pagination
 {
     /// <summary>
     /// Represents a base request class that handles pagination and sorting parameters.

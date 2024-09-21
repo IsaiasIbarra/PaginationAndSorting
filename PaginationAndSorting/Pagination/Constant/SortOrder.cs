@@ -1,4 +1,4 @@
-﻿namespace PaginationAndSorting.enums
+﻿namespace PaginationAndSorting.Pagination.Constant
 {
     /// <summary>
     /// Provides constants for sorting order values.
